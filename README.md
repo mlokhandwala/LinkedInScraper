@@ -1,0 +1,1 @@
+This project will be a collection of various scripts for generating and processing information from LinkedIn
